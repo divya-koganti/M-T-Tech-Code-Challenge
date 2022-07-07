@@ -228,7 +228,7 @@ Many despise pineapple on pizza because many feel fruit does not belong on pizza
 P.S. Pineapple does belong on pizza and ketchup is a jelly not jam
 
 ## Submission
-1. Who am I? I am Divya Koganti, a rising senior at University of Maryland who is studying computer science. I am a tech intern at Wilmington
+1. Who am I? I am Divya Koganti, a rising senior at University of Maryland where I am studying computer science. I am a tech intern at Wilmington
 2. I have an explicit question: If someone agrees that ketchup is jam does that relate to if someone agrees that pineapple belongs on pizza?
-In which I used code, statistics and visuals to come to the conclosiun that the two are not related
+In which I used code, statistics and visuals to come to the conclusion that the two responses to the questions are not related
 3. I went above and beyond by going to into depth the data science behind the answer
